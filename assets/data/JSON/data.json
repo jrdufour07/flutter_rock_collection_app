@@ -1,0 +1,919 @@
+{
+  "items": [
+    {
+      "popularity": 5,
+      "_id": "52e34e11-e834-43f2-9817-ea0bc6a35d23",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.870Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:06.315Z"
+      },
+      "title": "Hiddenite"
+    },
+    {
+      "popularity": 5,
+      "_id": "41645828-5e27-4ca5-aaff-2d1645cb0861",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.869Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:07.424Z"
+      },
+      "title": "Kunzite"
+    },
+    {
+      "popularity": 5,
+      "_id": "4f0f36bd-26bd-4aff-a31f-9fd6da532b47",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.868Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:08.019Z"
+      },
+      "title": "Sapphire"
+    },
+    {
+      "popularity": 5,
+      "_id": "d16ba83f-b72e-4c85-b2c7-b7876bb23a10",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.867Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:08.802Z"
+      },
+      "title": "Ruby"
+    },
+    {
+      "popularity": 5,
+      "_id": "5642f198-4c7a-41ad-a682-a5967e24d479",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.866Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:09.846Z"
+      },
+      "title": "Selenite"
+    },
+
+    {
+      "popularity": 5,
+      "_id": "cd1800d9-ab4a-4ada-a5b7-ee45cf071dd0",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.211Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:24.403Z"
+      },
+      "title": "Aquamarine"
+    },
+    {
+      "popularity": 5,
+      "_id": "e0b503b6-104b-4f3c-b906-68204b47e3d5",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.210Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:26.157Z"
+      },
+      "title": "Emerald"
+    },
+    {
+      "popularity": 5,
+      "_id": "7e4d00a5-9f3f-4f76-add7-aa5cb452de62",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.209Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:27.612Z"
+      },
+      "title": "Smoky Quartz"
+    },
+    {
+      "popularity": 5,
+      "_id": "76611117-1bc1-4d0a-a924-0d06d740a22b",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.208Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:29.131Z"
+      },
+      "title": "Rose Quartz"
+    },
+    {
+      "popularity": 5,
+      "_id": "5e2835c8-40a7-4b91-9db3-b5b8f210ba71",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.207Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:31.348Z"
+      },
+      "title": "Amethyst"
+    },
+    {
+      "popularity": 5,
+      "_id": "d43411f5-3018-4173-a11c-0324ed1bef84",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.206Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:32.737Z"
+      },
+      "title": "Citrine"
+    },
+    {
+      "popularity": 5,
+      "_id": "66491309-6e79-4928-9ef8-a8133cff79dc",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.205Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:34.493Z"
+      },
+      "title": "Amazonite"
+    },
+    {
+      "popularity": 5,
+      "_id": "423fefcd-2a48-4da4-8b96-3dfb70b37205",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.428Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:38.260Z"
+      },
+      "title": "Adamite"
+    },
+    {
+      "popularity": 5,
+      "_id": "2820f67a-a3c7-4d02-8131-0605e15a76d6",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.427Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:39.643Z"
+      },
+      "title": "Apophyllite"
+    },
+    {
+      "popularity": 5,
+      "_id": "18ad6073-9cc7-4c34-93d3-c2c6b6e361e9",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.426Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:41.096Z"
+      },
+      "title": "Aragonite"
+    },
+    {
+      "popularity": 5,
+      "_id": "bba7c84f-e291-47e2-b01f-a8e5c7462507",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.425Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:41.736Z"
+      },
+      "title": "Aurichalcite"
+    },
+    {
+      "popularity": 5,
+      "_id": "ab35ecc2-226b-481f-a9c1-5f5b1c246040",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.424Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:43.604Z"
+      },
+      "title": "Azurite"
+    },
+    {
+      "popularity": 5,
+      "_id": "20cd4d43-6764-46f5-a174-1f4dafcc01c1",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.423Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:44.338Z"
+      },
+      "title": "Barite"
+    },
+    {
+      "popularity": 5,
+      "_id": "257e0b4b-8d4b-41cd-b151-e669a9a93cb4",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.422Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:45.304Z"
+      },
+      "title": "Beryl"
+    },
+    {
+      "popularity": 5,
+      "_id": "15a6153a-2f10-46bb-b38f-f1a32a8408a7",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.421Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:45.738Z"
+      },
+      "title": "Calcite"
+    },
+    {
+      "popularity": 5,
+      "_id": "95568f36-7ebf-4410-b740-c12583062a51",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.420Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:50.904Z"
+      },
+      "title": "Cerussite"
+    },
+    {
+      "popularity": 5,
+      "_id": "4a0da55f-d1ee-4638-99d6-00ae4d7a2778",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.419Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:51.534Z"
+      },
+      "title": "Chalcanthite"
+    },
+    {
+      "popularity": 5,
+      "_id": "0b1145cc-2c7e-4d9a-9cc9-8f949346f919",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.418Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:51.994Z"
+      },
+      "title": "Chrysocolla"
+    },
+    {
+      "popularity": 5,
+      "_id": "5fa39c3d-9592-432e-a87b-d56a860a5ab9",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.417Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:52.730Z"
+      },
+      "title": "Conichalcite"
+    },
+    {
+      "popularity": 5,
+      "_id": "78c95258-c66e-4683-9031-4d617430e1dd",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.416Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:53.409Z"
+      },
+      "title": "Corundum"
+    },
+    {
+      "popularity": 5,
+      "_id": "a966e54b-7fea-4b06-8e24-031c3e5fe383",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.415Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:53.877Z"
+      },
+      "title": "Crocoite"
+    },
+    {
+      "popularity": 5,
+      "_id": "46fc71a9-5623-44e8-946f-a6426a70445a",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.414Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:55.834Z"
+      },
+      "title": "Cuprite"
+    },
+    {
+      "popularity": 5,
+      "_id": "c7c4ecef-cb9b-4640-a77c-be9ac72c3bd4",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.413Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:57.003Z"
+      },
+      "title": "Dioptase"
+    },
+    {
+      "popularity": 5,
+      "_id": "7cfeec38-4695-4a79-8231-0b37f4e4bfb3",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.412Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:57.964Z"
+      },
+      "title": "Feldspar"
+    },
+    {
+      "popularity": 5,
+      "_id": "39a10535-76b9-4c02-b21c-8668f3ff3d37",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.411Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:58.617Z"
+      },
+      "title": "Fluorite"
+    },
+    {
+      "popularity": 5,
+      "_id": "c76a14b8-7ff1-4921-85ca-94233ed99f16",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.410Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:59.273Z"
+      },
+      "title": "Galena"
+    },
+    {
+      "popularity": 5,
+      "_id": "1ccaea4a-27fb-400f-add8-42100bf11ead",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.409Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:00.852Z"
+      },
+      "title": "Garnet"
+    },
+    {
+      "popularity": 5,
+      "_id": "f1327b21-8e22-44e5-8c42-54b378398378",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.407Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:09.778Z"
+      },
+      "title": "Hemimorphite"
+    },
+    {
+      "popularity": 5,
+      "_id": "1054d3a8-c2e7-4a57-ab88-7f32c5711e7c",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.406Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:05.362Z"
+      },
+      "title": "Hubnerite"
+    },
+    {
+      "popularity": 5,
+      "_id": "6c66eaf7-001b-4418-8c83-76b2530cac86",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.405Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:07.951Z"
+      },
+      "title": "Kinoite"
+    },
+    {
+      "popularity": 5,
+      "_id": "ca582b08-5881-4629-b470-cb17abbd3968",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.404Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:13.343Z"
+      },
+      "title": "Krohnkite"
+    },
+    {
+      "popularity": 5,
+      "_id": "eb87bb8c-f1cf-4147-a0f1-1acdb384a15a",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.403Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:14.508Z"
+      },
+      "title": "Kutnohorite"
+    },
+    {
+      "popularity": 5,
+      "_id": "e5f59902-bebb-4e74-822e-6c1f02f2bad6",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.402Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:15.758Z"
+      },
+      "title": "Linarite"
+    },
+    {
+      "popularity": 5,
+      "_id": "877555ea-e9a3-4c5d-b2b5-319d4e0ee90c",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.401Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:16.225Z"
+      },
+      "title": "Malachite"
+    },
+    {
+      "popularity": 5,
+      "_id": "13e154d8-1c1d-4192-823d-44ba798ff18d",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.400Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:18.890Z"
+      },
+      "title": "Mica"
+    },
+    {
+      "popularity": 5,
+      "_id": "9ef32790-2b62-4711-8251-8b4a43fe1c20",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.399Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:20.768Z"
+      },
+      "title": "Pyrite"
+    },
+    {
+      "popularity": 5,
+      "_id": "9c2e5e2e-f41b-4c4b-8763-caaa3257d1cf",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.398Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:21.369Z"
+      },
+      "title": "Pyromorphite"
+    },
+    {
+      "popularity": 5,
+      "_id": "86aa20bf-e312-4dd5-982d-61902918c055",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.397Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:21.823Z"
+      },
+      "title": "Quartz"
+    },
+    {
+      "popularity": 5,
+      "_id": "be813701-e61a-4d6f-8ce7-28f88b41a115",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.396Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:22.542Z"
+      },
+      "title": "Rhodochrosite"
+    },
+    {
+      "popularity": 5,
+      "_id": "7b7c3bc7-b79f-46f5-bb2c-069079376665",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.395Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:28.715Z"
+      },
+      "title": "Roselite"
+    },
+    {
+      "popularity": 5,
+      "_id": "c1f70b9c-6a68-4e54-9e1b-193c40853df8",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.394Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:29.640Z"
+      },
+      "title": "Salammoniac"
+    },
+    {
+      "popularity": 5,
+      "_id": "e5dfc4f1-ad7d-4c4d-99ed-efe7510bd0c1",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.393Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:30.151Z"
+      },
+      "title": "Smithsonite"
+    },
+    {
+      "popularity": 5,
+      "_id": "4bcac8c4-3328-4533-8121-f1a62dbeded9",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.392Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:31.285Z"
+      },
+      "title": "Spodumene"
+    },
+    {
+      "popularity": 5,
+      "_id": "8e30e4cd-528c-4ef1-9a7e-47a097bae491",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.391Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:32.288Z"
+      },
+      "title": "Sulfur"
+    },
+    {
+      "popularity": 5,
+      "_id": "df1a2a43-a468-4d04-b3db-4aca2f4a6833",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.390Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:33.723Z"
+      },
+      "title": "Tourmaline"
+    },
+    {
+      "popularity": 5,
+      "_id": "7a9e6cfa-447d-4835-819a-83cb5ee8a856",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.389Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:35.041Z"
+      },
+      "title": "Tremolite"
+    },
+    {
+      "popularity": 5,
+      "_id": "e355e88c-cdc0-4246-a7a3-a83fd6988e4f",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.388Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:35.813Z"
+      },
+      "title": "Vanadinite"
+    },
+    {
+      "popularity": 5,
+      "_id": "951f7d37-40e7-4b0c-baea-56695b4c82fb",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.387Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:36.630Z"
+      },
+      "title": "Wulfenite"
+    },
+    {
+      "popularity": 4,
+      "_id": "8a1fc4a4-2019-4201-a348-003c0a89aa91",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.858Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:36.120Z"
+      },
+      "title": "Grossular"
+    },
+    {
+      "popularity": 4,
+      "_id": "1548294d-d18f-4e52-b227-b0b68b93f23e",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.857Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:33.701Z"
+      },
+      "title": "Spessartine"
+    },
+
+    {
+      "popularity": 4,
+      "_id": "af7e62db-c074-4164-af94-522d84e221c4",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.204Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:36.074Z"
+      },
+      "title": "Microcline"
+    },
+    {
+      "popularity": 4,
+      "_id": "3d84007e-120f-4248-816f-25631afee63e",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.408Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:03.785Z"
+      },
+      "title": "Gypsum"
+    },
+    {
+      "popularity": 4,
+      "_id": "dffdd81e-88be-432b-8505-8e49b2e26452",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:06.380Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:15:55.004Z"
+      },
+      "title": "Katanga Region, D.R. of the Congo"
+    },
+    {
+      "popularity": 3,
+      "_id": "44c336b9-b3e1-494b-b54a-3fc13e1f7cb7",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2022-01-12T02:30:31.384Z"
+      },
+      "_updatedDate": {
+        "$date": "2022-01-12T02:30:36.468Z"
+      },
+      "title": "Agate"
+    },
+    {
+      "popularity": 3,
+      "_id": "3ee3d0c8-d34a-47e0-98dc-6fdee4f52c63",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2022-01-12T02:29:50.050Z"
+      },
+      "_updatedDate": {
+        "$date": "2022-01-12T02:29:56.926Z"
+      },
+      "title": "Chalcedony"
+    },
+    {
+      "popularity": 3,
+      "_id": "8b1fdc73-aacf-47a6-8237-0377b0db4e6d",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2022-01-12T02:29:16.698Z"
+      },
+      "_updatedDate": {
+        "$date": "2022-01-12T02:29:23.575Z"
+      },
+      "title": "Gem Silica"
+    },
+    {
+      "popularity": 3,
+      "_id": "3f056d74-b6e7-4f8b-a027-f38027f3d87b",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-23T01:22:56.613Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:23:22.640Z"
+      },
+      "title": "Silicates"
+    },
+    {
+      "popularity": 3,
+      "_id": "edcaa37b-e1d0-441e-802f-6fde21e93d7d",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-23T01:22:51.068Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:23:47.436Z"
+      },
+      "title": "Carbonates"
+    },
+    {
+      "popularity": 3,
+      "_id": "64a7de33-cdbe-4d06-b99b-83fc3cd5e3b6",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.865Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:16.533Z"
+      },
+      "title": "Lepidolite"
+    },
+    {
+      "popularity": 3,
+      "_id": "1088ee5f-6bca-45dc-954d-e65899c425dc",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.864Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:15.298Z"
+      },
+      "title": "Biotite"
+    },
+    {
+      "popularity": 3,
+      "_id": "5ae6d043-05bd-4488-b189-4a68570d06d7",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.863Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:18.604Z"
+      },
+      "title": "Muscovite"
+    },
+    {
+      "popularity": 3,
+      "_id": "51931438-f6ce-4b65-baba-a289ece9c827",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.862Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:23.843Z"
+      },
+      "title": "Uvarovite"
+    },
+    {
+      "popularity": 3,
+      "_id": "601bf57f-5b71-45e5-92b4-302b8f80d258",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.861Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:24.636Z"
+      },
+      "title": "Andradite"
+    },
+    {
+      "popularity": 3,
+      "_id": "b10712fc-dabb-4f44-abcb-57a54010d6e6",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.860Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:30.648Z"
+      },
+      "title": "Alamandine"
+    },
+    {
+      "popularity": 3,
+      "_id": "f7b0d336-4027-4b00-b074-0ca6cc8e5961",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.859Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:16:30.948Z"
+      },
+      "title": "Pyrope"
+    },
+
+    {
+      "popularity": 3,
+      "_id": "da06b91d-861b-4f21-9034-844aab133101",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.217Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:17.027Z"
+      },
+      "title": "Dravite"
+    },
+    {
+      "popularity": 3,
+      "_id": "3ca056e4-1e6c-426a-b0a3-79f4fb4de2de",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.216Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:18.283Z"
+      },
+      "title": "Rubellite"
+    },
+    {
+      "popularity": 3,
+      "_id": "d4a3cc47-4a44-4867-8306-0fe34949ccd8",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.215Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:19.139Z"
+      },
+      "title": "Elbaite"
+    },
+    {
+      "popularity": 3,
+      "_id": "69f19cbd-d492-481c-9c4e-a56c81839054",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.214Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:20.684Z"
+      },
+      "title": "Schorl"
+    },
+    {
+      "popularity": 3,
+      "_id": "203a3534-5ebc-4706-aebb-ee604366da91",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.213Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:21.080Z"
+      },
+      "title": "Morganite"
+    },
+    {
+      "popularity": 3,
+      "_id": "a53610a2-eb2a-4177-9e84-4cb32a7325b6",
+      "_owner": "2dcc6c62-bd62-4b8c-b16f-7a821c7c9db3",
+      "_createdDate": {
+        "$date": "2021-10-15T23:39:07.212Z"
+      },
+      "_updatedDate": {
+        "$date": "2021-10-23T01:14:21.964Z"
+      },
+      "title": "Heliodor"
+    }
+    ]
+}
